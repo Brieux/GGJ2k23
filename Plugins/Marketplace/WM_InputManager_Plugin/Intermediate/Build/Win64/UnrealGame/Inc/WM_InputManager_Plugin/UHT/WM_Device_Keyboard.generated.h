@@ -1,0 +1,103 @@
+// Copyright Epic Games, Inc. All Rights Reserved.
+/*===========================================================================
+	Generated code exported from UnrealHeaderTool.
+	DO NOT modify this manually! Edit the corresponding .h files instead!
+===========================================================================*/
+
+// IWYU pragma: private, include "Devices/WM_Device_Keyboard.h"
+#include "UObject/ObjectMacros.h"
+#include "UObject/ScriptMacros.h"
+
+PRAGMA_DISABLE_DEPRECATION_WARNINGS
+#ifdef WM_INPUTMANAGER_PLUGIN_WM_Device_Keyboard_generated_h
+#error "WM_Device_Keyboard.generated.h already included, missing '#pragma once' in WM_Device_Keyboard.h"
+#endif
+#define WM_INPUTMANAGER_PLUGIN_WM_Device_Keyboard_generated_h
+
+#define FID_build_U5M_Marketplace_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_WM_InputManager_Plugin_Source_WM_InputManager_Plugin_Public_Devices_WM_Device_Keyboard_h_14_GENERATED_BODY \
+	friend struct Z_Construct_UScriptStruct_FWM_Keyboard_DeviceInfo_Statics; \
+	WM_INPUTMANAGER_PLUGIN_API static class UScriptStruct* StaticStruct();
+
+
+template<> WM_INPUTMANAGER_PLUGIN_API UScriptStruct* StaticStruct<struct FWM_Keyboard_DeviceInfo>();
+
+#define FID_build_U5M_Marketplace_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_WM_InputManager_Plugin_Source_WM_InputManager_Plugin_Public_Devices_WM_Device_Keyboard_h_33_SPARSE_DATA
+#define FID_build_U5M_Marketplace_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_WM_InputManager_Plugin_Source_WM_InputManager_Plugin_Public_Devices_WM_Device_Keyboard_h_33_RPC_WRAPPERS
+#define FID_build_U5M_Marketplace_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_WM_InputManager_Plugin_Source_WM_InputManager_Plugin_Public_Devices_WM_Device_Keyboard_h_33_RPC_WRAPPERS_NO_PURE_DECLS
+#define FID_build_U5M_Marketplace_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_WM_InputManager_Plugin_Source_WM_InputManager_Plugin_Public_Devices_WM_Device_Keyboard_h_33_ACCESSORS
+#define FID_build_U5M_Marketplace_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_WM_InputManager_Plugin_Source_WM_InputManager_Plugin_Public_Devices_WM_Device_Keyboard_h_33_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUWM_Device_Keyboard(); \
+	friend struct Z_Construct_UClass_UWM_Device_Keyboard_Statics; \
+public: \
+	DECLARE_CLASS(UWM_Device_Keyboard, UWM_Device, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/WM_InputManager_Plugin"), NO_API) \
+	DECLARE_SERIALIZER(UWM_Device_Keyboard)
+
+
+#define FID_build_U5M_Marketplace_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_WM_InputManager_Plugin_Source_WM_InputManager_Plugin_Public_Devices_WM_Device_Keyboard_h_33_INCLASS \
+private: \
+	static void StaticRegisterNativesUWM_Device_Keyboard(); \
+	friend struct Z_Construct_UClass_UWM_Device_Keyboard_Statics; \
+public: \
+	DECLARE_CLASS(UWM_Device_Keyboard, UWM_Device, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/WM_InputManager_Plugin"), NO_API) \
+	DECLARE_SERIALIZER(UWM_Device_Keyboard)
+
+
+#define FID_build_U5M_Marketplace_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_WM_InputManager_Plugin_Source_WM_InputManager_Plugin_Public_Devices_WM_Device_Keyboard_h_33_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UWM_Device_Keyboard(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UWM_Device_Keyboard) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UWM_Device_Keyboard); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UWM_Device_Keyboard); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UWM_Device_Keyboard(UWM_Device_Keyboard&&); \
+	NO_API UWM_Device_Keyboard(const UWM_Device_Keyboard&); \
+public: \
+	NO_API virtual ~UWM_Device_Keyboard();
+
+
+#define FID_build_U5M_Marketplace_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_WM_InputManager_Plugin_Source_WM_InputManager_Plugin_Public_Devices_WM_Device_Keyboard_h_33_ENHANCED_CONSTRUCTORS \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UWM_Device_Keyboard(UWM_Device_Keyboard&&); \
+	NO_API UWM_Device_Keyboard(const UWM_Device_Keyboard&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UWM_Device_Keyboard); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UWM_Device_Keyboard); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UWM_Device_Keyboard) \
+	NO_API virtual ~UWM_Device_Keyboard();
+
+
+#define FID_build_U5M_Marketplace_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_WM_InputManager_Plugin_Source_WM_InputManager_Plugin_Public_Devices_WM_Device_Keyboard_h_30_PROLOG
+#define FID_build_U5M_Marketplace_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_WM_InputManager_Plugin_Source_WM_InputManager_Plugin_Public_Devices_WM_Device_Keyboard_h_33_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_build_U5M_Marketplace_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_WM_InputManager_Plugin_Source_WM_InputManager_Plugin_Public_Devices_WM_Device_Keyboard_h_33_SPARSE_DATA \
+	FID_build_U5M_Marketplace_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_WM_InputManager_Plugin_Source_WM_InputManager_Plugin_Public_Devices_WM_Device_Keyboard_h_33_RPC_WRAPPERS \
+	FID_build_U5M_Marketplace_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_WM_InputManager_Plugin_Source_WM_InputManager_Plugin_Public_Devices_WM_Device_Keyboard_h_33_ACCESSORS \
+	FID_build_U5M_Marketplace_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_WM_InputManager_Plugin_Source_WM_InputManager_Plugin_Public_Devices_WM_Device_Keyboard_h_33_INCLASS \
+	FID_build_U5M_Marketplace_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_WM_InputManager_Plugin_Source_WM_InputManager_Plugin_Public_Devices_WM_Device_Keyboard_h_33_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define FID_build_U5M_Marketplace_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_WM_InputManager_Plugin_Source_WM_InputManager_Plugin_Public_Devices_WM_Device_Keyboard_h_33_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_build_U5M_Marketplace_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_WM_InputManager_Plugin_Source_WM_InputManager_Plugin_Public_Devices_WM_Device_Keyboard_h_33_SPARSE_DATA \
+	FID_build_U5M_Marketplace_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_WM_InputManager_Plugin_Source_WM_InputManager_Plugin_Public_Devices_WM_Device_Keyboard_h_33_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_build_U5M_Marketplace_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_WM_InputManager_Plugin_Source_WM_InputManager_Plugin_Public_Devices_WM_Device_Keyboard_h_33_ACCESSORS \
+	FID_build_U5M_Marketplace_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_WM_InputManager_Plugin_Source_WM_InputManager_Plugin_Public_Devices_WM_Device_Keyboard_h_33_INCLASS_NO_PURE_DECLS \
+	FID_build_U5M_Marketplace_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_WM_InputManager_Plugin_Source_WM_InputManager_Plugin_Public_Devices_WM_Device_Keyboard_h_33_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> WM_INPUTMANAGER_PLUGIN_API UClass* StaticClass<class UWM_Device_Keyboard>();
+
+#undef CURRENT_FILE_ID
+#define CURRENT_FILE_ID FID_build_U5M_Marketplace_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_WM_InputManager_Plugin_Source_WM_InputManager_Plugin_Public_Devices_WM_Device_Keyboard_h
+
+
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
