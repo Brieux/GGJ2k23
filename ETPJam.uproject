@@ -2,5 +2,15 @@
 	"FileVersion": 3,
 	"EngineAssociation": "5.1",
 	"Category": "",
-	"Description": ""
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true
+		},
+		{
+			"Name": "StaticMeshEditorModeling",
+			"Enabled": true
+		}
+	]
 }
