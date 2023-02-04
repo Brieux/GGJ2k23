@@ -1,7 +1,0 @@
-{
-	"OutputFiles": [
-		"PCH.WM_InputManager_Plugin.h.obj",
-		"Module.WM_InputManager_Plugin.1_of_2.cpp.obj",
-		"Module.WM_InputManager_Plugin.2_of_2.cpp.obj"
-	]
-}
